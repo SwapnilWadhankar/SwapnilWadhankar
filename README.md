@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Swpanil 
+### I'm Swapnil 
 ## I'm Full Stack Web Developer /  Tech Enthusiast
 
 
