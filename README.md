@@ -14,7 +14,7 @@
 👔 [linkedin][linkedin]
 
 [twitter]: https://twitter.com/Swapnil12381855
-[instagram]: https://instagram.com/swapnil_1999
+[instagram]: https://instagram.com/swapnilwadhankar_1999
 [linkedin]: https://linkedin.com/in/swapnil-wadhankar-7751b1178
 
 
