@@ -3,9 +3,9 @@
 ## I'm Full Stack Web Developer /  Tech Enthusiast
 
 
-- 🔭 I’m currently working on Rainfall prediction model
-- 🌱 I’m currently learning Machine Learning and React js
-- 🤔 I’m looking for help with MERN Stack Development
+- 🔭 I’m currently working on Docker and Kubernetes projects.
+- 🌱 I’m currently learning Python and Various DevOps Tools and Technology.
+- 🤔 I’m looking for help with DevOps remote jobs
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can balance a football on my neck 
 
