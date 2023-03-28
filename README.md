@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### I'm Swapnil 
-## I'm Full Stack Web Developer /  Tech Enthusiast
+## I'm DevOps Engineer / Tech Enthusiast
 
 
 - 🔭 I’m currently working on Docker and Kubernetes projects.
 - 🌱 I’m currently learning Python and Various DevOps Tools and Technology.
 - 🤔 I’m looking for help with DevOps remote jobs
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can balance a football on my neck 
+- ⚡ Fun fact: I find javascript easier than python.
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
