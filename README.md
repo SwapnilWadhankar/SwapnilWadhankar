@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Python and Various DevOps Tools and Technology.
 - 🤔 I’m looking for help with DevOps remote jobs
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I find javascript easier than python.
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
