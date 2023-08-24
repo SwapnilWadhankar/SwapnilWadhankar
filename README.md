@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Swapnil 
-## I'm DevOps Engineer / Tech Enthusiast
+## I'm Full Stack Developer / Tech Enthusiast
 
 
 - 🔭 I’m currently working on Docker and Kubernetes projects.
