@@ -3,9 +3,9 @@
 ## I'm Full Stack Developer / Tech Enthusiast
 
 
-- 🔭 I’m currently working on Docker and Kubernetes projects.
-- 🌱 I’m currently learning Python and Various DevOps Tools and Technology.
-- 🤔 I’m looking for help with DevOps remote jobs
+- 🔭 I’m currently working on Java and Typscript.
+- 🌱 I’m currently learning Java.
+- 🤔 I’m looking for Java Full Stack Development roles
 - 😄 Pronouns: He/Him
 
 🐦 [twitter][twitter] **|** 
