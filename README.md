@@ -3,8 +3,8 @@
 ## I'm Full Stack Developer / Tech Enthusiast
 
 
-- 🔭 I’m currently working on Java and Typscript.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on Java Spring Boot Microservices and REST APIs.
+- 🌱 I’m currently learning DevOps
 - 🤔 I’m looking for Java Full Stack Development roles
 - 😄 Pronouns: He/Him
 
